@@ -297,7 +297,8 @@ namespace RenderHeads.Media.AVProVideo.Demos
 				case MediaPlayerEvent.EventType.FirstFrameReady:
 					SwapPlayers();
 				break;
-				case MediaPlayerEvent.EventType.FinishedPlaying:
+			case MediaPlayerEvent.EventType.FinishedPlaying:
+				OnOpenVideoFile ();
 				break;
 			}
 
