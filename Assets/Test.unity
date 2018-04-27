@@ -313,7 +313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_VideoLocation: 2
-  m_VideoPath: AVProVideoSamples/BigBuckBunny_360p30.mp4
+  m_VideoPath: AVProVideoSamples/6.mp4
   m_AutoOpen: 1
   m_AutoStart: 0
   m_Loop: 0
@@ -534,7 +534,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_VideoLocation: 2
-  m_VideoPath: AVProVideoSamples/BigBuckBunny_720p30.mp4
+  m_VideoPath: AVProVideoSamples/5.mp4
   m_AutoOpen: 1
   m_AutoStart: 0
   m_Loop: 0
@@ -755,7 +755,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_VideoLocation: 2
-  m_VideoPath: AVProVideoSamples/BigBuckBunny_720p30.mp4
+  m_VideoPath: AVProVideoSamples/7.mp4
   m_AutoOpen: 1
   m_AutoStart: 0
   m_Loop: 0
@@ -888,7 +888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_VideoLocation: 2
-  m_VideoPath: AVProVideoSamples/interstellar.mp3
+  m_VideoPath: "AVProVideoSamples/\u592A\u7530\u7F8E\u77E5\u5F66 - \u4E07\u91CC\u306E\u957F\u57CE.mp3"
   m_AutoOpen: 1
   m_AutoStart: 0
   m_Loop: 0
@@ -1122,7 +1122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_VideoLocation: 2
-  m_VideoPath: AVProVideoSamples/BigBuckBunny_720p30.mp4
+  m_VideoPath: AVProVideoSamples/4.mp4
   m_AutoOpen: 1
   m_AutoStart: 0
   m_Loop: 0
@@ -1343,7 +1343,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_VideoLocation: 2
-  m_VideoPath: AVProVideoSamples/BigBuckBunny_360p30.mp4
+  m_VideoPath: AVProVideoSamples/8.mp4
   m_AutoOpen: 1
   m_AutoStart: 0
   m_Loop: 0
@@ -1658,7 +1658,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_VideoLocation: 2
-  m_VideoPath: AVProVideoSamples/BigBuckBunny_360p30.mp4
+  m_VideoPath: AVProVideoSamples/3.mp4
   m_AutoOpen: 1
   m_AutoStart: 0
   m_Loop: 0
@@ -1879,7 +1879,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_VideoLocation: 2
-  m_VideoPath: AVProVideoSamples/BigBuckBunny_360p30.mp4
+  m_VideoPath: AVProVideoSamples/1.mp4
   m_AutoOpen: 1
   m_AutoStart: 0
   m_Loop: 0
@@ -2100,7 +2100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_VideoLocation: 2
-  m_VideoPath: AVProVideoSamples/BigBuckBunny_720p30.mp4
+  m_VideoPath: AVProVideoSamples/2.mp4
   m_AutoOpen: 1
   m_AutoStart: 0
   m_Loop: 0
@@ -2304,7 +2304,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 600, y: 400}
+  m_SizeDelta: {x: 600, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1527750992
 MonoBehaviour:
